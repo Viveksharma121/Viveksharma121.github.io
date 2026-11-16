@@ -6,7 +6,9 @@ I'm a Software Engineer at **Oracle Financial Services Software (OFSS)**, workin
 
 My work spans Java, Spring Boot, SQL, data workflows and React-based UI development. I'm particularly interested in backend engineering, API design, databases and building reliable applications.
 
-\<p align="left">   \<a href="[https://vivek-sharma.pages.dev/](https://vivek-sharma.pages.dev/)">     \<img src="[https://img.shields.io/badge/Portfolio-Visit-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white](https://img.shields.io/badge/Portfolio-Visit-1f6feb?style=for-the-badge\&logo=googlechrome\&logoColor=white)" alt="Portfolio"/>   \</a>   \<a href="[https://www.linkedin.com/in/vivek-sharma-776b2424a/](https://www.linkedin.com/in/vivek-sharma-776b2424a/)">     \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn"/>   \</a>   \<a href="[https://github.com/Viveksharma121](https://github.com/Viveksharma121)">     \<img src="[https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub"/>   \</a> \</p>
+
+\
+
 
 ---
 
@@ -22,9 +24,7 @@ My work spans Java, Spring Boot, SQL, data workflows and React-based UI developm
 
 ## 🛠️ Tech Stack
 
-\<p align="left">
-&#x20; \<img src="[https://skillicons.dev/icons?i=java,spring,python,javascript,typescript,react,nodejs,postgres,mysql,mongodb,oracle,git,github&perline=7](https://skillicons.dev/icons?i=java,spring,python,javascript,typescript,react,nodejs,postgres,mysql,mongodb,oracle,git,github\&perline=7)" alt="Tech stack icons"/>
-\</p>
+
 
 **Backend:** Java, Spring Boot, Spring Data JPA, REST APIs, Node.js, Express.js
 
