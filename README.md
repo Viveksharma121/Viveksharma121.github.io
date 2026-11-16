@@ -1,4 +1,4 @@
-# Viveksharma121.github.io# Hey, I'm Vivek Sharma 👋
+# Hey, I'm Vivek Sharma 👋
 
 ### Software Engineer | Java | Spring Boot | SQL
 
